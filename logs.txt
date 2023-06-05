@@ -1,3 +1,19 @@
+==ListOps==
+
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00029
+wandb:       time/epoch (s) 1781.07148
+wandb: time/inter_step (ms) 10.70666
+wandb: time/intra_step (ms) 298.17677
+wandb:            train/acc 0.35756
+wandb:           train/loss 1.74812
+wandb:  trainer/global_step 29999
+wandb:              val/acc 0.357
+wandb:             val/loss 1.72942
+wandb: 
+wandb: Synced exalted-forest-18: https://wandb.ai/i207m/attention/runs/2r5jpc6w
+
 ==Text==
 
 wandb: Run summary:
