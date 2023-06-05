@@ -1,0 +1,15 @@
+==Text==
+
+wandb: Run summary:
+wandb:                epoch 25
+wandb:             lr-AdamW 0.00035
+wandb:       time/epoch (s) 223.94492
+wandb: time/inter_step (ms) 5.1043
+wandb: time/intra_step (ms) 192.19851
+wandb:            train/acc 0.63296
+wandb:           train/loss 0.64115
+wandb:  trainer/global_step 20331
+wandb:              val/acc 0.62284
+wandb:             val/loss 0.64665
+wandb: 
+wandb: Synced grateful-universe-23: https://wandb.ai/i207m/attention/runs/3rh85tt4
