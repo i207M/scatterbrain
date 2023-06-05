@@ -29,3 +29,33 @@ wandb:              val/acc 0.62284
 wandb:             val/loss 0.64665
 wandb: 
 wandb: Synced grateful-universe-23: https://wandb.ai/i207m/attention/runs/3rh85tt4
+
+wandb: Run summary:
+wandb:                epoch 25
+wandb:             lr-AdamW 0.00035
+wandb:       time/epoch (s) 196.54791
+wandb: time/inter_step (ms) 4.97603
+wandb: time/intra_step (ms) 168.24889
+wandb:            train/acc 0.63532
+wandb:           train/loss 0.6381
+wandb:  trainer/global_step 20331
+wandb:              val/acc 0.62548
+wandb:             val/loss 0.64705
+wandb: 
+wandb: Synced northern-microwave-29: https://wandb.ai/i207m/attention/runs/i28cwdwq
+
+==Path==
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 99.41631
+wandb: time/inter_step (ms) 4.22263
+wandb: time/intra_step (ms) 152.15731
+wandb:            train/acc 0.77884
+wandb:           train/loss 0.42402
+wandb:  trainer/global_step 62599
+wandb:              val/acc 0.7511
+wandb:             val/loss 0.56019
+wandb: 
+wandb: Synced cosmic-mountain-27: https://wandb.ai/i207m/attention/runs/26ekefl0
