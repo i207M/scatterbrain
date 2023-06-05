@@ -48,6 +48,20 @@ wandb:             val/loss 0.64705
 wandb: 
 wandb: Synced northern-microwave-29: https://wandb.ai/i207m/attention/runs/i28cwdwq
 
+wandb: Run summary:
+wandb:                epoch 25
+wandb:             lr-AdamW 0.00035
+wandb:       time/epoch (s) 405.04778
+wandb: time/inter_step (ms) 4.24337
+wandb: time/intra_step (ms) 390.29098
+wandb:            train/acc 0.61724
+wandb:           train/loss 0.6525
+wandb:  trainer/global_step 20331
+wandb:              val/acc 0.62316
+wandb:             val/loss 0.64881
+wandb: 
+wandb: Synced glamorous-field-42: https://wandb.ai/i207m/attention/runs/nweqnwms
+
 ==Path==
 
 wandb: Run summary:
