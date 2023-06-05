@@ -2,6 +2,20 @@
 
 >>> lr=0.025
 
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00014
+wandb:       time/epoch (s) 1770.73868
+wandb: time/inter_step (ms) 6.76632
+wandb: time/intra_step (ms) 297.03832
+wandb:            train/acc 0.35973
+wandb:           train/loss 1.7188
+wandb:  trainer/global_step 29999
+wandb:              val/acc 0.3565
+wandb:             val/loss 1.70951
+wandb: 
+wandb: Synced charmed-mountain-31: https://wandb.ai/i207m/attention/runs/1mf8lf27
+
 >>> lr=0.05
 
 wandb: Run summary:
