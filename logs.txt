@@ -1,5 +1,9 @@
 ==ListOps==
 
+>>> lr=0.025
+
+>>> lr=0.05
+
 wandb: Run summary:
 wandb:                epoch 9
 wandb:             lr-AdamW 0.00029
@@ -59,3 +63,19 @@ wandb:              val/acc 0.7511
 wandb:             val/loss 0.56019
 wandb: 
 wandb: Synced cosmic-mountain-27: https://wandb.ai/i207m/attention/runs/26ekefl0
+
+==Retrieval==
+
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00023
+wandb:       time/epoch (s) 2272.39387
+wandb: time/inter_step (ms) 4.04668
+wandb: time/intra_step (ms) 468.57882
+wandb:            train/acc 0.86755
+wandb:           train/loss 0.3097
+wandb:  trainer/global_step 45969
+wandb:              val/acc 0.81647
+wandb:             val/loss 0.43062
+wandb: 
+wandb: Synced brisk-morning-28: https://wandb.ai/i207m/attention/runs/l9b8f72a
