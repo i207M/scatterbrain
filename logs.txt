@@ -94,6 +94,20 @@ wandb:             val/loss 0.43062
 wandb: 
 wandb: Synced brisk-morning-28: https://wandb.ai/i207m/attention/runs/l9b8f72a
 
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00023
+wandb:       time/epoch (s) 3165.80482
+wandb: time/inter_step (ms) 5.4605
+wandb: time/intra_step (ms) 577.47054
+wandb:            train/acc 0.87261
+wandb:           train/loss 0.29721
+wandb:  trainer/global_step 45969
+wandb:              val/acc 0.81282
+wandb:             val/loss 0.46214
+wandb: 
+wandb: Synced charmed-tree-34: https://wandb.ai/i207m/attention/runs/33psdgfy
+
 ==Image==
 
 wandb: Run summary:
