@@ -79,3 +79,33 @@ wandb:              val/acc 0.81647
 wandb:             val/loss 0.43062
 wandb: 
 wandb: Synced brisk-morning-28: https://wandb.ai/i207m/attention/runs/l9b8f72a
+
+==Image==
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 37.54221
+wandb: time/inter_step (ms) 3.38912
+wandb: time/intra_step (ms) 163.78427
+wandb:            train/acc 0.48347
+wandb:           train/loss 1.44938
+wandb:  trainer/global_step 35199
+wandb:              val/acc 0.4334
+wandb:             val/loss 1.69652
+wandb: 
+wandb: Synced wild-wind-39: https://wandb.ai/i207m/attention/runs/16mweeek
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 38.1457
+wandb: time/inter_step (ms) 3.92008
+wandb: time/intra_step (ms) 156.48794
+wandb:            train/acc 0.48271
+wandb:           train/loss 1.45516
+wandb:  trainer/global_step 35199
+wandb:              val/acc 0.4368
+wandb:             val/loss 1.67767
+wandb: 
+wandb: Synced likely-butterfly-43: https://wandb.ai/i207m/attention/runs/25thj9gu
