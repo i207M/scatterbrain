@@ -1,7 +1,7 @@
 _target_: src.datamodules.listops.ListOps
 
-data_dir: ${oc.env:DATA_DIR,${data_dir}}/listops/listops-1000 # data_dir is specified in config.yaml
-cache_dir: ${oc.env:DATA_DIR,${data_dir}}/listops/cache
+data_dir: ${oc.env:DATA_DIR,${data_dir}} # data_dir is specified in config.yaml
+cache_dir: ${oc.env:DATA_DIR,${data_dir}}/cache
 max_length: 2000
 shuffle: True
 batch_size: 32

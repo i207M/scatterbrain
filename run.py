@@ -15,8 +15,7 @@ OmegaConf.register_new_resolver('div_up', lambda x, y: (x + y - 1) // y)
 def dictconfig_filter_key(d: DictConfig, fn: Callable) -> DictConfig:
     """Only keep keys where fn(key) is True. Support nested DictConfig.
     """
-    return DictConfig({k: dictconfig_filter_key(v, fn) if isinstance(v, DictConfig) else v
-                       for k, v in d.items() if fn(k)})
+    return DictConfig({k: dictconfig_filter_key(v, fn) if isinstance(v, DictConfig) else v for k, v in d.items() if fn(k)})
 
 
 @hydra.main(config_path="configs/", config_name="config.yaml")
