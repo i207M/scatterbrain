@@ -122,6 +122,20 @@ wandb:             val/loss 0.46214
 wandb: 
 wandb: Synced charmed-tree-34: https://wandb.ai/i207m/attention/runs/33psdgfy
 
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00023
+wandb:       time/epoch (s) 2845.23291
+wandb: time/inter_step (ms) 5.72801
+wandb: time/intra_step (ms) 585.042
+wandb:            train/acc 0.8737
+wandb:           train/loss 0.29618
+wandb:  trainer/global_step 45969
+wandb:              val/acc 0.81603
+wandb:             val/loss 0.43096
+wandb: 
+wandb: Synced pleasant-tree-50: https://wandb.ai/i207m/attention/runs/3rzxq3kg
+
 ==Image==
 
 wandb: Run summary:
