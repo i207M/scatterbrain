@@ -151,3 +151,17 @@ wandb:              val/acc 0.4368
 wandb:             val/loss 1.67767
 wandb: 
 wandb: Synced likely-butterfly-43: https://wandb.ai/i207m/attention/runs/25thj9gu
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 57.06267
+wandb: time/inter_step (ms) 4.08292
+wandb: time/intra_step (ms) 250.63586
+wandb:            train/acc 0.48838
+wandb:           train/loss 1.4434
+wandb:  trainer/global_step 35199
+wandb:              val/acc 0.4444
+wandb:             val/loss 1.67949
+wandb:
+wandb: Synced apricot-meadow-49: https://wandb.ai/i207m/attention/runs/3girelza
