@@ -16,6 +16,20 @@ wandb:             val/loss 1.70951
 wandb: 
 wandb: Synced charmed-mountain-31: https://wandb.ai/i207m/attention/runs/1mf8lf27
 
+wandb: Run summary:
+wandb:                epoch 9
+wandb:             lr-AdamW 0.00014
+wandb:       time/epoch (s) 2351.1174
+wandb: time/inter_step (ms) 3.64208
+wandb: time/intra_step (ms) 376.41621
+wandb:            train/acc 0.32822
+wandb:           train/loss 1.86463
+wandb:  trainer/global_step 29999
+wandb:              val/acc 0.359
+wandb:             val/loss 1.75962
+wandb:
+wandb: Synced logical-yogurt-58: https://wandb.ai/i207m/attention/runs/wpcj7jl0
+
 >>> lr=0.05
 
 wandb: Run summary:
@@ -75,22 +89,6 @@ wandb:              val/acc 0.62316
 wandb:             val/loss 0.64881
 wandb: 
 wandb: Synced glamorous-field-42: https://wandb.ai/i207m/attention/runs/nweqnwms
-
-==Path==
-
-wandb: Run summary:
-wandb:                epoch 199
-wandb:             lr-AdamW 0.0
-wandb:       time/epoch (s) 99.41631
-wandb: time/inter_step (ms) 4.22263
-wandb: time/intra_step (ms) 152.15731
-wandb:            train/acc 0.77884
-wandb:           train/loss 0.42402
-wandb:  trainer/global_step 62599
-wandb:              val/acc 0.7511
-wandb:             val/loss 0.56019
-wandb: 
-wandb: Synced cosmic-mountain-27: https://wandb.ai/i207m/attention/runs/26ekefl0
 
 ==Retrieval==
 
@@ -179,3 +177,47 @@ wandb:              val/acc 0.4444
 wandb:             val/loss 1.67949
 wandb:
 wandb: Synced apricot-meadow-49: https://wandb.ai/i207m/attention/runs/3girelza
+
+==Path==
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 99.41631
+wandb: time/inter_step (ms) 4.22263
+wandb: time/intra_step (ms) 152.15731
+wandb:            train/acc 0.77884
+wandb:           train/loss 0.42402
+wandb:  trainer/global_step 62599
+wandb:              val/acc 0.7511
+wandb:             val/loss 0.56019
+wandb: 
+wandb: Synced cosmic-mountain-27: https://wandb.ai/i207m/attention/runs/26ekefl0
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 99.9278
+wandb: time/inter_step (ms) 3.53575
+wandb: time/intra_step (ms) 145.48755
+wandb:            train/acc 0.74947
+wandb:           train/loss 0.46896
+wandb:  trainer/global_step 62599
+wandb:              val/acc 0.7299
+wandb:             val/loss 0.69116
+wandb:
+wandb: Synced firm-eon-51: https://wandb.ai/i207m/attention/runs/24b1htmy
+
+wandb: Run summary:
+wandb:                epoch 199
+wandb:             lr-AdamW 0.0
+wandb:       time/epoch (s) 102.69231
+wandb: time/inter_step (ms) 3.81875
+wandb: time/intra_step (ms) 145.84279
+wandb:            train/acc 0.76348
+wandb:           train/loss 0.44707
+wandb:  trainer/global_step 62599
+wandb:              val/acc 0.73845
+wandb:             val/loss 0.54712
+wandb:
+wandb: Synced grateful-sunset-57: https://wandb.ai/i207m/attention/runs/leenzd3y
